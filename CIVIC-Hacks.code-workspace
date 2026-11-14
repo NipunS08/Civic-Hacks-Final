@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "CivicLens",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.next": true,
+      "**/.expo": true,
+      "apps/mobile/dist": true,
+      "apps/mobile/dist-native": true
+    }
+  }
+}

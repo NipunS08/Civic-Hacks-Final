@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "CivicLens",
+    "slug": "civiclens-mobile",
+    "version": "1.0.0",
+    "scheme": "civiclens",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "plugins": ["expo-router"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

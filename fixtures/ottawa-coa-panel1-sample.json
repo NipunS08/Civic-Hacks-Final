@@ -1,0 +1,69 @@
+{
+  "meetingId": "5c1671ce-db0b-4cfa-a81f-c1bfa1c09326",
+  "meetingName": "Committee of Adjustment - Panel 1",
+  "meetingDate": "2026-11-18",
+  "retrievedAt": "2026-11-12T20:35:00.000Z",
+  "sourceUrl": "https://pub-ottawa.escribemeetings.com/Meeting.aspx?Id=5c1671ce-db0b-4cfa-a81f-c1bfa1c09326&Agenda=Agenda&lang=English",
+  "items": [
+    {
+      "id": 1,
+      "title": "CALL TO ORDER",
+      "allowPublicComment": false
+    },
+    {
+      "id": 2,
+      "title": "OPENING REMARKS",
+      "allowPublicComment": false
+    },
+    {
+      "id": 3,
+      "title": "DECLARATIONS OF INTEREST",
+      "allowPublicComment": false
+    },
+    {
+      "id": 4,
+      "title": "CONFIRMATION OF MINUTES",
+      "allowPublicComment": false
+    },
+    {
+      "id": 5,
+      "title": "ADJOURNMENTS",
+      "allowPublicComment": false
+    },
+    {
+      "id": 6,
+      "title": "HEARING OF APPLICATIONS",
+      "allowPublicComment": false
+    },
+    {
+      "id": 9,
+      "title": "292 Lyon (Ward 14 - Somerset)",
+      "allowPublicComment": false
+    },
+    {
+      "id": 10,
+      "title": "319 Selby (Ward 15 - Kitchissippi)",
+      "allowPublicComment": false
+    },
+    {
+      "id": 11,
+      "title": "563 Churchill (Ward 15 - Kitchissippi)",
+      "allowPublicComment": false
+    },
+    {
+      "id": 12,
+      "title": "319 Spartan (Ward 12 - Rideau-Vanier)",
+      "allowPublicComment": false
+    },
+    {
+      "id": 7,
+      "title": "OTHER BUSINESS",
+      "allowPublicComment": false
+    },
+    {
+      "id": 8,
+      "title": "ADJOURNMENT",
+      "allowPublicComment": false
+    }
+  ]
+}
